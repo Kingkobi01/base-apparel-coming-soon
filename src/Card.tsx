@@ -14,7 +14,7 @@ function Card() {
           />
           <img src="./images/hero-desktop.jpg" alt="We're coming soon" />
         </picture> */}
-      <div className="md:bg-[url(./images/hero-desktop.jpg)] bg-[url(./images/hero-mobile.jpg)] bg-cover bg-no-repeat bg-center w-full md:w-2/3 min-h-[20rem]"></div>
+      <div className="md:bg-[url(/images/hero-desktop.jpg)] bg-[url(/images/hero-mobile.jpg)] bg-cover bg-no-repeat bg-center w-full md:w-2/3 min-h-[20rem]"></div>
       <div className="px-[3.875rem] py-[3.5rem] w-full">
         <img
           className="md:block hidden md:mb-[4em]"
