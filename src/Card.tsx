@@ -2,7 +2,7 @@ import Email from "./Email";
 
 function Card() {
   return (
-    <article className="flex md:flex-row-reverse flex-col md:justify-end md:my-auto ml-auto border w-full max-w-[90rem] min-h-screen text-center md:text-start">
+    <article className="flex md:flex-row-reverse flex-col md:justify-end md:my-auto ml-auto w-full max-w-[90rem] min-h-screen text-center md:text-start">
       {/* <picture className="h-full">
         <source
           media="orientation:landscape"
